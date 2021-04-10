@@ -20,7 +20,7 @@ def kontrol_et():
         v.set("ip zararli degil")
 
 top=Tk()
-top.title("usom ıp kontrol")
+top.title("Usom Ip kontrol")
 B=Button(top,text="kontrol et",command=kontrol_et)
 B.place(x=50,y=50)
 B.pack()
